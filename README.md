@@ -1,9 +1,22 @@
 # React TypeScript Starter Pack
 
-To use this template click `Use this template`
+Project Description
+This is a portfolio app for a product catalog. A modern React/TypeScript frontend catalog app built with Vite, using routes, context state, and SCSS styling.
 
-### Available Scripts
+A digital storefront / product catalog interface
+Includes pages for:
+Home
+Catalog
+Product
+Favourites
+Cart
+NotFound
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+Main Technologies
+React + TypeScript
+Vite
+Sass / SCSS
+Bulma
+React Router DOM
+use-context-selector with custom React context
+Swiper for product sliders
